@@ -4,7 +4,7 @@ tbd
 ## Getting started:
 `must have python 3.10+`
 
-clone the project using git or just download zip file:
+clone the project using git or you can just download zip file:
 ```
 https://github.com/AbhikShar/Gestational_Care.git
 ```
